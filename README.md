@@ -4,7 +4,7 @@
 
 SQL (Structured Query Language) is a language for managing data in a database. Unlike some other programming languages, it's only used for one thing: talking to databases. Thus, you might hear it referred to as a "special purpose", or "domain specific" programming language. This means that you won't be using SQL to write the next big web app, but you might use it to interact with the database that powers it.
 
-Even though SQL has just one purpose, it is used by many different database systems such as MySQL, PostgreSQL, or the system we'll being using in this course: SQLite.
+Even though SQL has just one purpose, it is used by many different database systems such as MySQL, PostgreSQL, or the system we'll being using in this course: SQLite. There are a handful of things other SQL systems like Postgres, or MySQL can do that are not supported by SQLite. Every database system has its own strengths and weaknesses, and as you learn more about them you should evaluate them thoughtfully when deciding which to use for what purpose. For us, SQLite provides a low barrier to entry, and is simple to get up and running. 
 
 ## Web Developers <3 Databases
 
