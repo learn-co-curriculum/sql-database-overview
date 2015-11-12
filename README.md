@@ -14,7 +14,7 @@ We've already seen how we can build Ruby programs that model real-world objects 
 
 For example, a basic web application might have many users. So far, we've learned how to build a Ruby `User` class that produces user objects. But, we don't yet know how to store those users and their details. If a user signs up for our app and we proceed to lose all their information immediately, how will we know if an existing user is signing back into our app? We need a way to take our Ruby objects, store them in a database and retrieve them at the appropriate time.
 
-## In This Unit
+## In This Topic
 
 This topic will cover how to use and navigate databases based on SQL. By the end of this topic, you’ll be able to: 
 
