@@ -24,4 +24,4 @@ This topic will cover how to use and navigate databases based on SQL. By the end
 * Write SQL code in both your command line and your text editor and execute the code against a database. 
 * Write Ruby programs that talk to and save data to your databases.
 
-<a href='https://learn.co/lessons/sql-topic-introduction' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-topic-introduction' title='Introduction To Structured Query Language'>Introduction To Structured Query Language</a> on Learn.co and start learning to code for free.</p>
